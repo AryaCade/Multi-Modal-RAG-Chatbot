@@ -1,0 +1,13 @@
+streamlit
+unstructured
+pdf2image
+pytesseract
+faiss-cpu
+google-generativeai
+python-dotenv
+beautifulsoup4
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+Pillow
